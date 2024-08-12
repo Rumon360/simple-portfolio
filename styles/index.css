@@ -216,7 +216,7 @@ header a {
   height: 15rem;
   overflow: hidden;
   border-radius: 50%;
-  background-image: url("/images/dav.jpg");
+  background-image: url("../images/dav.jpg");
   background-size: cover;
   flex-shrink: 0;
 }
